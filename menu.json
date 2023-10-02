@@ -13,7 +13,7 @@
       "title": "Картопляні зрази",
       "description": "Зажарка в картопляному п'юре, обмокнуто в взбитому яйці та панірувальних сухарях, обсмажено.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/lemonDessert%202.jpg?raw=true",
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-517013.jpg?raw=true",
       "category": "mains" 
     },
     {
@@ -21,7 +21,7 @@
       "title": "Біфстроганов з кролика",
       "description": "Ніжний кролик в вершках з крамельною цибулею та овочами.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/grilledFish.jpg?raw=true",
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-517001.jpg?raw=true",
       "category": "mains"
     },
     {
@@ -45,7 +45,15 @@
       "title": "Булочки",
       "description": "Ніжне спечене дріжджове тісто з варенням всередині.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-517002.jpg?raw=true",
+      "category": "desserts"
+    },
+    {
+      "id": 7,
+      "title": "Чанахи",
+      "description": "Суп х неймовірним наповненням спецій, м'яса та овочів...",
+      "price": "10",
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-516988.jpg?raw=true",
       "category": "desserts"
     }
   ]
