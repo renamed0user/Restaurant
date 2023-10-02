@@ -55,6 +55,14 @@
       "price": "10",
       "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-516988.jpg?raw=true",
       "category": "starters"
+    },
+    {
+      "id": 8,
+      "title": "Чай",
+      "description": "Запашний чорний чай",
+      "price": "10",
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true",
+      "category": "starters"
     }
   ]
 }
