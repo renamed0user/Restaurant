@@ -26,11 +26,11 @@
     },
     {
       "id": 4,
-      "title": "Pasta",
-      "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chilli, garlic, basil & salted ricotta cheese.",
+      "title": "Трикутні налисники",
+      "description": "Налисники складені в трикутну форму з різноманітним наповненням.",
       "price": "10",
       "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
-      "category": "mains"
+      "category": "starters"
     },
     {
       "id": 5,
