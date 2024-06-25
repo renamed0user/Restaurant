@@ -2,67 +2,282 @@
   "menu": [
     {
       "id": 1,
-      "title": "Ліниві Голубці",
-      "description": "Кіт дуже дуже любить.",
-      "price": "10",
-      "image": "https://raw.githubusercontent.com/renamed0user/Restaurant/920943285abc8922fa4face6ca28eae45420f31f/msg454995054-516990.jpg",
-      "category": "mains"
+      "title": "Assorted bruschett",
+      "category": "Starters",
+      "miniDescription": "Middle spicy, 450g",
+      "description": "",
+      "price": 405,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
     },
     {
       "id": 2,
-      "title": "Картопляні зрази",
-      "description": "Зажарка в картопляному п'юре, обмокнуто в взбитому яйці та панірувальних сухарях, обсмажено.",
-      "price": "10",
-      "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-517013.jpg?raw=true",
-      "category": "mains" 
+      "title": "Beef bouillon",
+      "category": "Soup",
+      "miniDescription": "380g",
+      "description": "",
+      "price": 180,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
     },
     {
       "id": 3,
-      "title": "Біфстроганов з кролика",
-      "description": "Ніжний кролик в вершках з крамельною цибулею та овочами.",
-      "price": "10",
-      "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-517001.jpg?raw=true",
-      "category": "mains"
+      "title": "Bollinger Speciale Cuvee Brut",
+      "category": "Wine",
+      "miniDescription": "France, Champagne, 750ml",
+      "description": "",
+      "price": 5100,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
     },
     {
       "id": 4,
-      "title": "Трикутні налисники",
-      "description": "Налисники складені в трикутну форму з різноманітним наповненням.",
-      "price": "10",
-      "image": "https://raw.githubusercontent.com/renamed0user/Restaurant/920943285abc8922fa4face6ca28eae45420f31f/msg454995054-516989.jpg",
-      "category": "starters"
+      "title": "Bouillabaisse soup",
+      "category": "Soup",
+      "miniDescription": "450g",
+      "description": "The soup is based on rich fish broth with pike perch fillet,mullet fillet, mussels in shells, peeled tiger prawns, cherry tomatoes, parsley, chili peppers.",
+      "price": 400,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
     },
     {
       "id": 5,
-      "title": "Канапки з філою",
-      "description": "Тости намащені філадельфією в різних варіаціях",
-      "price": "10",
-      "image": "https://raw.githubusercontent.com/renamed0user/Restaurant/920943285abc8922fa4face6ca28eae45420f31f/msg454995054-516987.jpg",
-      "category": "starters"
+      "title": "Cheese platter",
+      "category": "Starters",
+      "miniDescription": "280g",
+      "description": "",
+      "price": 400,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
     },
     {
       "id": 6,
-      "title": "Булочки",
-      "description": "Ніжне спечене дріжджове тісто з варенням всередині.",
-      "price": "10",
-      "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-517002.jpg?raw=true",
-      "category": "desserts"
+      "title": "Cheesecake dorblu",
+      "category": "Desserts",
+      "miniDescription": "100g",
+      "description": "",
+      "price": 175,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
     },
     {
       "id": 7,
-      "title": "Чанахи",
-      "description": "Суп х неймовірним наповненням спецій, м'яса та овочів...",
-      "price": "10",
-      "image": "https://github.com/renamed0user/Restaurant/blob/main/msg454995054-516988.jpg?raw=true",
-      "category": "starters"
+      "title": "Cheesecake exotic",
+      "category": "Desserts",
+      "miniDescription": "110g",
+      "description": "",
+      "price": 160,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
     },
     {
       "id": 8,
-      "title": "Чай",
-      "description": "Запашний чорний чай",
-      "price": "10",
-      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true",
-      "category": "starters"
+      "title": "Chicken bouillon",
+      "category": "Soup",
+      "miniDescription": "350g",
+      "description": "",
+      "price": 110,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 9,
+      "title": "Cool summer soup",
+      "category": "Soup",
+      "miniDescription": "450g",
+      "description": "",
+      "price": 250,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 10,
+      "title": "Duck leg confit with aromatic black rice",
+      "category": "Mains",
+      "miniDescription": "290g",
+      "description": "",
+      "price": 285,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 11,
+      "title": "French chicken with truffle mashed potatoes",
+      "category": "Mains",
+      "miniDescription": "350g",
+      "description": "",
+      "price": 285,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 12,
+      "title": "Green soup",
+      "category": "Soup",
+      "miniDescription": "230g",
+      "description": "",
+      "price": 450,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 13,
+      "title": "Lanson, Black Label Brut",
+      "category": "Wine",
+      "miniDescription": "750ml",
+      "description": "",
+      "price": 5100,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 14,
+      "title": "Lobster chix",
+      "category": "Mains",
+      "miniDescription": "400-500g",
+      "description": "",
+      "price": 5500,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 15,
+      "title": "Maison Bouey, Chateau Dauzac 1981","Wine",
+      "category": "Wine",
+      "miniDescription": "750ml",
+      "description": "",
+      "price": 5000,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 16,
+      "title": "Minestrone",
+      "category": "Soup",
+      "miniDescription": "400g",
+      "description": "",
+      "price": 130,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 17,
+      "title": "Mont blanc",
+      "category": "Desserts",
+      "miniDescription": "250g",
+      "description": "",
+      "price": 300,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 18,
+      "title": "Nicoise salad",
+      "category": "Salads",
+      "miniDescription": "350g",
+      "description": "Lettuce, buttered potatoes and green beans with salt and pepper.\nFresh tuna fried in sunflower oil with salt and pepper until cooked \"blue\", boiled chicken egg with soft yolk in the middle, sweet cherry tomatoes, blue onions, nicoise sauce (anchovies, Dijon mustard, garlic, capers, wine vinegar, olive oil, parsley), olives.",
+      "price": 280,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 19,
+      "title": "Onion soup",
+      "category": "Soup",
+      "miniDescription": "400g",
+      "description": "Classic onion soup, which is prepared by stewing for 3 hours with butter, white dry wine, nutmeg, salt and pepper at minimum temperatures.\nIt is served with white croutons and sprinkled with emmental cheese.",
+      "price": 300,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 20,
+      "title": "Oyster fin de cleires",
+      "category": "Starters",
+      "miniDescription": "100g",
+      "description": "French oysters of the traditional range with standard aging and an average filling index. These classic French oysters are affined (ennobled) in the shallow waters of the Marin-Oléron basin – in France's famous oyster region. Only oysters grown in Marin-Oléron receive the name de Claire. Fin de Claire oysters have a denser consistency and a slightly salty taste. This is one of the most popular types of oysters in the world. Gourmets especially note their iodide aftertaste, slight oiliness and notes of groundnut in the taste",
+      "price": 120,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 21,
+      "title": "Pancakes with zucchini and salmon",
+      "category": "Mains",
+      "miniDescription": "350g",
+      "description": "",
+      "price": 370,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 22,
+      "title": "Salad with prosciutto, tomates and mozzarella",
+      "category": "Salads",
+      "miniDescription": "350g",
+      "description": "",
+      "price": 250,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 23,
+      "title": "Seabass with quinoa",
+      "category": "Mains",
+      "miniDescription": "400g",
+      "description": "",
+      "price": 530,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 24,
+      "title": "Italian meat slicing assorted",
+      "category": "Starters",
+      "miniDescription": "250g",
+      "description": "Assorted Italian sausages (napoli, negroni, coppa), bresaola (beef leg dried with salt and spices), prosciutto (dried pork ham), mahan. Decorate with olives, olives, cherries and salad mix",
+      "price": 450,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 25,
+      "title": "Tar Tar Beef",
+      "category": "Starters",
+      "miniDescription": "210g",
+      "description": "Inner trimmed beef tenderloin,\ncut into small cubes, pickled gherkins, red onion, capers, olive oil are also added,\nsalt and pepper, tabasco sauce. Ready tartar is laid out on a plate through a garnish ring, on top of the tartar\nraw chicken yolk is placed in the middle, decorated in a circle\ncream sauce that includes (cream, sour cream, soy sauce) garnished with capers and microgreens.\n",
+      "price": 260,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 26,
+      "title": "Tataki with salmon",
+      "category": "Starters",
+      "miniDescription": "230g",
+      "description": "",
+      "price": 720,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 27,
+      "title": "The blue cordon",
+      "category": "Mains",
+      "miniDescription": "250g",
+      "description": "Schnitzel of beef tenderloin, stuffed with\nham and Roquefort cheese.\nBreaded in breadcrumbs, deep-fried.",
+      "price": 495,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 28,
+      "title": "Tom Yum pasta",
+      "category": "Mains",
+      "miniDescription": "300g",
+      "description": "",
+      "price": 380,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 29,
+      "title": "Tuna steak",
+      "category": "Mains",
+      "miniDescription": "100g",
+      "description": "Heavy meal\nThe price is for 100 grams",
+      "price": 210,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 30,
+      "title": "Veal cheeks with mashed potatoes",
+      "category": "Mains",
+      "miniDescription": "300g",
+      "description": "",
+      "price": 185,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
+    },
+    {
+      "id": 31,
+      "title": "Salad with strawberries and shrimp",
+      "category": "Salads",
+      "miniDescription": "230g",
+      "description": "",
+      "price": 480,
+      "image": "https://github.com/renamed0user/Restaurant/blob/main/7c664063ba5e6215cb3567de3330c187.jpg?raw=true"
     }
   ]
 }
